@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Artifacts
+*.csv
+*.log
+*.lock
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
